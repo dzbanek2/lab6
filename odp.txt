@@ -1,0 +1,5 @@
+1. cat plik.txt | grep [^\n]
+2. grep [0-9] pl*
+3. grep *.* | grep ^........r
+4. grep -c /bash /etc/passwd
+5. grep [IXVLDMC] plik.txt
